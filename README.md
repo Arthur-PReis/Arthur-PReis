@@ -3,5 +3,5 @@
 Meu nome é Arthur
 
 - Estou estudando na [Alura](https://www.alura.com.br)
-- Estou aprendendo JavaScript
+- Estou aprendendo a programar
 - Estou aqui para aprender e me organizar
